@@ -1,2 +1,2 @@
 # coba
-Latihan
+Latihan SQL Teaching Assistant Pacman
